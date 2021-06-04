@@ -17,7 +17,7 @@
 #
 # Example usage: kubectl create -f <this_file>
 
-apiVersion: v1
+apiVersion: apps/v1
 kind: ServiceAccount
 metadata:
   labels:
